@@ -26,4 +26,4 @@ This dashboard presents a detailed analysis of restaurants listed on Zomato. It 
 
 ## Technologies Used
 
-- **Power BI
+- **Power BI**
